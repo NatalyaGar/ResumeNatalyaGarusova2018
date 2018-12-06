@@ -33,7 +33,7 @@ HTML5 | CSS3 | JavaScript | JQuery | Bootstrap | Firebase | Node.js | MySQL | Mo
 * I worked on a team, and I was responsible for Back End. I did React files set-up, created Snippet Component Functionality: Show, Create, Edit and Snippet database in MongoDB. 
 * React.js, MongoDB, Node.js, Express.js, Clipboard.js, React-CodeMirror, Bootstrap 
 
-**Additional Professional Experience**
+## Additional Professional Experience
 
 **Work Processes Organization and Standardization Engineer** (1997-2001),
 Chuqursoy Station, Uzbekistan Railways Corporation, Tashkent, Uzbekistan
