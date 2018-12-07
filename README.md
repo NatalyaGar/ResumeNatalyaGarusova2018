@@ -40,29 +40,19 @@ strive for best practices and engineering excellence.
 ## Additional Professional Experience
 
 **Work Processes Organization and Standardization Engineer** (1997-2001),
-
 Chuqursoy Station, Uzbekistan Railways Corporation, Tashkent, Uzbekistan
-<br>
 
 **Freight Teller**(1994-1997), 
-
 Chuqursoy Station, Uzbekistan Railways Corporation, Tashkent, Uzbekistan
-<br>
 
 ## Education
 
 **DU Coding Bootcamp – Full Stack Web Development, 01/2018 - 07/2018**
-
 Denver University, Denver, CO
 Completed a 24-week long program in designing and building web applications. 
 
-<br>
-
 **ISTQB Certified Tester, Foundation Level (CTFL) (No. 16-CTFL-00472-USA)**
-
 American Software Testing Qualifications Board, Inc.
-
-<br>
 
 **Bachelor of Arts in Economics**, 
 Tashkent Railway Transport Engineering Institute, Uzbekistan
