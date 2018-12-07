@@ -47,11 +47,11 @@ Chuqursoy Station, Uzbekistan Railways Corporation, Tashkent, Uzbekistan
 
 ## Education
 
-**DU Coding Bootcamp – Full Stack Web Development, 01/2018 - 07/2018**
-Denver University, Denver, CO
+**DU Coding Bootcamp – Full Stack Web Development, 01/2018 - 07/2018**,
+Denver University, Denver, CO,
 Completed a 24-week long program in designing and building web applications. 
 
-**ISTQB Certified Tester, Foundation Level (CTFL) (No. 16-CTFL-00472-USA)**
+**ISTQB Certified Tester, Foundation Level (CTFL) (No. 16-CTFL-00472-USA)**,
 American Software Testing Qualifications Board, Inc.
 
 **Bachelor of Arts in Economics**, 
