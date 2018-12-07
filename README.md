@@ -55,11 +55,13 @@ Chuqursoy Station, Uzbekistan Railways Corporation, Tashkent, Uzbekistan
 
 Denver University, Denver, CO
 Completed a 24-week long program in designing and building web applications. 
+
 <br>
 
 **ISTQB Certified Tester, Foundation Level (CTFL) (No. 16-CTFL-00472-USA)**
 
 American Software Testing Qualifications Board, Inc.
+
 <br>
 
 **Bachelor of Arts in Economics**, 
