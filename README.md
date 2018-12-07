@@ -17,7 +17,7 @@ strive for best practices and engineering excellence.
 
 ## Select Web Development Projects
 
-**Secret Santa** [View the progect](https://natalyagar.github.io/Secret-Santa/) ;
+**Secret Santa** [View the project](https://natalyagar.github.io/Secret-Santa/) ;
 [GitHub Repo](https://github.com/NatalyaGar/Secret-Santa)
 * A web application that allows users to play a Secret Santa game called Magical Christmas cheer Processor, which randomly assigns gift givers and receivers.
 * HTML, CSS, Bootstrap, JavaScript, Animate.css, Firebase, Moments.js, JQuery, Ajax, and Giphy API. 
@@ -25,14 +25,14 @@ strive for best practices and engineering excellence.
 
 <br>
 
-**Mongo Scraper** [View the progect](https://mongo-scraper-natalya.herokuapp.com/) ;
+**Mongo Scraper** [View the project](https://mongo-scraper-natalya.herokuapp.com/) ;
 [GitHub Repo](https://github.com/NatalyaGar/Mongo)
 * A scraper app which captures the title, summary and image of articles of The New York Times, and users are able to save their preferred articles, add notes and edit notes to one or multiple   articles. 
 * Handlebars, JavaScript, JQuery, Bootstrap, MongoDB, Express.js.
 
 <br>
 
-**Snippet-Stash-React** [View the progect](https://snippetstash-mern.herokuapp.com/) ; [GitHub Repo](https://github.com/NatalyaGar/Snippet-Stash-React)
+**Snippet-Stash-React** [View the project](https://snippetstash-mern.herokuapp.com/) ; [GitHub Repo](https://github.com/NatalyaGar/Snippet-Stash-React)
 * This app provides a database for coders to find communal code snippets and create/save their own library of snippets for future use. 
 * I worked on a team, and I was responsible for Back End. I did React files set-up, created Snippet Component Functionality: Show, Create, Edit and Snippet database in MongoDB. 
 * React.js, MongoDB, Node.js, Express.js, Clipboard.js, React-CodeMirror, Bootstrap 
